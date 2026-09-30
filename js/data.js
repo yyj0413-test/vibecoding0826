@@ -3,14 +3,14 @@ export const familyData = {
     {
       id: "first",
       order: "첫째",
-      name: "민준",
+      name: "규빈",
       color: "blue",
       academy: "영어학원"
     },
     {
       id: "second",
       order: "둘째",
-      name: "서윤",
+      name: "예준",
       color: "violet",
       academy: "태권도"
     }
