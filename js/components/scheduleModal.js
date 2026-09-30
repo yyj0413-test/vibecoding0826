@@ -16,10 +16,10 @@ const modal = (x = {}) => `
         <select name="childId">
           <option value="first" ${
             x.childId === "first" || !x.childId ? "selected" : ""
-          }>첫째 · 민준</option>
+          }>첫째 · 규빈</option>
           <option value="second" ${
             x.childId === "second" ? "selected" : ""
-          }>둘째 · 서윤</option>
+          }>둘째 · 예준</option>
         </select>
       </label>
 
