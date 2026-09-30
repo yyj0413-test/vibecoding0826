@@ -14,8 +14,8 @@ const renderScheduleHeader = () => `
 
   <div class="column-header">
     <div>시간</div>
-    <div>🔵 첫째 · 민준</div>
-    <div>🟣 둘째 · 서윤</div>
+    <div>🔵 첫째 · 규빈</div>
+    <div>🟣 둘째 · 예준</div>
     <div>부모 이동</div>
   </div>
 `;
